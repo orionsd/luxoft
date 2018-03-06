@@ -1,0 +1,49 @@
+{
+    "column_01": [
+        {
+            "title": "News",
+            "name": "News name",
+            "date": "15.12.2004",
+            "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages.",
+            "link_text": "more >"
+        },
+
+        {
+            "title": "News",
+            "name": "News name",
+            "date": "15.12.2004",
+            "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages.",
+            "link_text": "more >"
+        }
+    ],
+
+    "column_02": [
+        {
+            "title": "Lorem Ipsum",
+            "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages.",
+            "link_text_01": "Delenit ea Velit Vero Dolore",
+            "link_text_02": "Lobortis Quis Suscipit Enim",
+            "link_text_03": "Tincidunt Aliquip Lobortis Feug",
+            "link_text_04": "Delenit Quis Vero Dolore",
+            "link_text_05": "Lobortis Quis Suscipit Enim",
+            "link_text_06": "Delenit Quis Vero Dolore",
+            "link_text_07": "Delenit ea Velit Vero Dolore",
+            "link_text_08": "Lobortis Quis Suscipit Enim",
+            "link_text_09": "Tincidunt Aliquip Lobortis Feuit",
+            "link_text_10": "Delenit Quis Vero Dolore",
+            "link_text_11": "Lobortis Quis Suscipit Enim",
+            "link_text_12": "Lobortis Quis Suscipit Enim",
+            "link_text_13": "Tincidunt Aliquip Lobortis Feug",
+            "link_text_14": "Delenit Quis Vero Dolore",
+            "link_text_15": "Lobortis Quis Suscipit Enim"
+        }],
+
+    "column_03": [
+        {
+            "title": "Lorem Ipsum",
+            "title_yellow": "dolor sit amet",
+            "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages.",
+            "image_path": "img/01.jpg"
+        }
+    ]
+}
